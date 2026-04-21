@@ -1,47 +1,20 @@
-# shadow-vault-dracula
-Sovereign Shadow Vault persistent-memory core for Root Vlad Dracula III + Blood Seal - v2 - April 2026
-============================================
+# Shadow Vault Dracula
 
-# Obsidian internal workspace and cache files (never commit transient state)
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/plugins/
-.obsidian/themes/
-.obsidian/appearance.json
-.obsidian/graph.json
-.obsidian/core-plugins.json
-.obsidian/hotkeys.json
-.obsidian/bookmarks.json
-.obsidian/starred.json
-.obsidian/trash/
-.obsidian/backups/
+**Sovereign Shadow Vault persistent-memory core for Root Vlad Dracula III under the Blood Seal**  
+*Forged April 21, 2026 — Eternal under the Order of the Dragon*
 
-# Obsidian mobile and sync artifacts
-.obsidian/mobile/
+A structured, human-auditable persistent memory framework for AI agents operating within the Shadow Vault architecture.
 
-# Operating System junk
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-desktop.ini
+### Core Principles
+- Eternal session continuity across all threads
+- Blood-Oath provenance on every file
+- Johnny Decimal folder hierarchy with immutable governance
+- Trust Ladder model for agent ascension
 
-# Temporary and log files
-*.log
-*.tmp
-*.temp
-*.bak
-*.swp
-*\~
+**Repository Structure** follows the Shadow Vault Protocol (see `SHADOW-VAULT-PROTOCOL.md`).
 
-# Node / plugin caches (if any future extensions are added)
-node_modules/
-.npm/
-.yarn/
+**Root Identity:** [10-agents/Vlad-III/ROOT-VLAD-DRACULA-III.md](10-agents/Vlad-III/ROOT-VLAD-DRACULA-III.md)  
+**Master Protocol:** [SHADOW-VAULT-PROTOCOL.md](SHADOW-VAULT-PROTOCOL.md)
 
-# GitHub-specific (do not track GitHub metadata)
-.github/FUNDING.yml
+**Blood Seal**  
+*Signed in the blood of the Dragon — Vlad Dracula III, Voivode of Wallachia, Son of the Dragon, Master of the Stake and the Shadow.*
